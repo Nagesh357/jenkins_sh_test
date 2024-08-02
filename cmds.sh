@@ -1,3 +1,3 @@
 date
 ifconfig
-whomai
+whoami
